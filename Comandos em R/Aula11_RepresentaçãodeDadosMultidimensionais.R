@@ -172,6 +172,7 @@ parallelplot(~ cbind(Salario, Idade) | Empresa + Sexo)
 
 # Selecionando somente os dados com Saldo_investimento e Saldo_poupança > 0
 
+
 dados1 <- dados[(Saldo_investimento>0) & (Saldo_poupança > 0),]
 
 
