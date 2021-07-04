@@ -1,6 +1,8 @@
-# Leitura dos dados da Companhia MB
+# Visualização e Exploração de Dados
+# Cibele Russo - ICMC USP
+
 # Fonte: Bussab, W.O.; Morettin, P.A. Estatística Básica. 6ª ed., São Paulo: Saraiva, 2009. 
-# por Cibele Russo ICMC USP
+# Leitura dos dados da Companhia MB
 
 dados <- read.csv("https://raw.githubusercontent.com/cibelerusso/VED/main/Dados/CompanhiaMB.csv", header=TRUE)
 
@@ -30,7 +32,8 @@ round(tab.rel,2)
 
 # Gráficos padrões do R
 
-barplot(tab)
+tab = table(df$instrucao)
+barplot(tab, col='blue')
 
 barplot(tab, col = c('red','blue','green'))
 
@@ -49,6 +52,8 @@ paretochart(df$instrucao,
             title = 'Gráfico de Pareto de grau de instrução')
 
 
+
+
 # Gráfico de setores (gráfico de pizza)
 
 pie(tab, main='Gráfico de setores para grau de instrução')
@@ -57,7 +62,7 @@ pie(tab, main='Gráfico de setores para grau de instrução')
 
 # Pacote tidyverse
 
-install.packages('tidyverse')
+# install.packages('tidyverse')
 
 library(tidyverse)
 
@@ -100,4 +105,8 @@ ggplot(data = df, aes(x="", y='instrucao', fill=instrucao, )) +
   coord_polar("y", start=0)+
   labs(title='Gráfico de setores de grau de instrução')+
   theme_void() # remove background, grid, numeric labels
+
+        
+       
+
 
