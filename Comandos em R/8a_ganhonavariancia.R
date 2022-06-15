@@ -2,7 +2,7 @@
 # Por Cibele Russo
 # Dados Companhia MB de Bussab e Morettin
 
-dados <- read.csv ("/home/cibele/Insync/cibele@icmc.usp.br/Google Drive/Disciplinas/!2022 Visualização e Exploração de Dados/Bancos de dados/CompanhiaMB.csv", header=TRUE)
+dados <- read.csv ("https://raw.githubusercontent.com/cibelerusso/VED/main/Dados/CompanhiaMB.csv", header=TRUE)
 attach(dados)
 dados<-data.frame(dados)
 
