@@ -200,7 +200,7 @@ id_municipio;uf;municipio;longitude;latitude
 200;AP;Santana;-51.172924;-0.045434
 201;AP;Serra do Navio;-52.003636;0.901357
 202;AP;Tartarugalzinho;-50.90874;1.506519
-203;AP;Vitória do Jari;-52.424001;-938
+203;AP;Vitória do Jari;-52.424001;-.938
 205;BA;Abaré;-39.116178;-8.720734
 204;BA;Abaíra;-41.661869;-13.24883
 206;BA;Acajutiba;-38.019737;-11.657522
@@ -1030,7 +1030,7 @@ id_municipio;uf;municipio;longitude;latitude
 1013;GO;Jussara;-50.866818;-15.865877
 5672;GO;Lagoa Santa;-51.399333;-19.185113
 1014;GO;Leopoldo de Bulhões;-48.742755;-16.619048
-1015;GO;Luziânia;-47.95;-16253
+1015;GO;Luziânia;-47.95;-16.253
 1016;GO;Mairipotaba;-49.489819;-17.297538
 1017;GO;Mambaí;-46.116491;-14.482291
 1018;GO;Mara Rosa;-49.177652;-14.014816
@@ -1121,7 +1121,7 @@ id_municipio;uf;municipio;longitude;latitude
 1099;GO;São Luíz do Norte;-49.328495;-14.860804
 1100;GO;São Miguel do Araguaia;-50.163402;-13.27305
 1101;GO;São Miguel do Passa Quatro;-48.661981;-17.058201
-1102;GO;São Patrício;-49818;-15.35
+1102;GO;São Patrício;-49.818;-15.35
 1103;GO;São Simão;-50.546968;-18.99603
 1108;GO;Sítio d`Abadia;-46.250628;-14.79924
 1109;GO;Taquaral de Goiás;-49.603859;-16.052057
@@ -1149,7 +1149,7 @@ id_municipio;uf;municipio;longitude;latitude
 1130;MA;Alcântara;-44.406182;-2.395737
 1131;MA;Aldeias Altas;-43.468931;-4.626213
 1132;MA;Altamira do Maranhão;-45.470616;-4.16598
-1133;MA;Alto Alegre do Maranhão;-44446;-4213
+1133;MA;Alto Alegre do Maranhão;-44.446;-4.213
 1134;MA;Alto Alegre do Pindaré;-45.842111;-3.666886
 1135;MA;Alto Parnaíba;-45.930328;-9.102733
 1136;MA;Amapá do Maranhão;-46.002442;-1.675241
@@ -1181,7 +1181,7 @@ id_municipio;uf;municipio;longitude;latitude
 1161;MA;Bom Jesus das Selvas;-46.864118;-4.476382
 1162;MA;Bom Lugar;-45.03265;-4.373113
 1163;MA;Brejo;-42.752704;-3.677957
-1164;MA;Brejo de Areia;-45581;-4334
+1164;MA;Brejo de Areia;-45.581;-4.334
 1165;MA;Buriti;-42.917936;-3.941692
 1166;MA;Buriti Bravo;-43.835288;-5.832392
 1167;MA;Buriticupu;-46.440883;-4.323755
@@ -1244,7 +1244,7 @@ id_municipio;uf;municipio;longitude;latitude
 1224;MA;Junco do Maranhão;-46.090025;-1.838879
 1230;MA;Lago Verde;-44.825997;-3.946611
 1227;MA;Lago da Pedra;-45.131912;-4.569743
-1228;MA;Lago do Junco;-45.049001;-4609
+1228;MA;Lago do Junco;-45.049001;-4.609
 1229;MA;Lago dos Rodrigues;-44.979763;-4.611735
 1226;MA;Lagoa Grande do Maranhão;-45.381609;-4.988929
 1225;MA;Lagoa do Mato;-43.533313;-6.050229
@@ -1348,7 +1348,7 @@ id_municipio;uf;municipio;longitude;latitude
 1328;MA;Tasso Fragoso;-45.753647;-8.466203
 1329;MA;Timbiras;-43.931956;-4.255971
 1330;MA;Timon;-42.83292;-5.097692
-1331;MA;Trizidela do Vale;-44628;-4538
+1331;MA;Trizidela do Vale;-44.628;-4.538
 1332;MA;Tufilândia;-45.623781;-3.67355
 1333;MA;Tuntum;-44.644367;-5.254761
 1334;MA;Turiaçu;-45.379791;-1.658925
@@ -1614,7 +1614,7 @@ id_municipio;uf;municipio;longitude;latitude
 1597;MG;Dom Joaquim;-43.254382;-18.961036
 1598;MG;Dom Silvério;-42.962673;-20.162726
 1599;MG;Dom Viçoso;-45.164317;-22.25111
-1600;MG;Dona Eusébia;-42.807048;-21319
+1600;MG;Dona Eusébia;-42.807048;-21.319
 1601;MG;Dores de Campos;-44.02068;-21.113944
 1602;MG;Dores de Guanhães;-42.925373;-19.051607
 1603;MG;Dores do Indaiá;-45.592741;-19.462789
@@ -1646,7 +1646,7 @@ id_municipio;uf;municipio;longitude;latitude
 1627;MG;Felício dos Santos;-43.242206;-18.075546
 1630;MG;Fernandes Tourinho;-42.080259;-19.154087
 1631;MG;Ferros;-43.019232;-19.234309
-1632;MG;Fervedouro;-42.278997;-20726
+1632;MG;Fervedouro;-42.278997;-20.726
 1633;MG;Florestal;-44.431758;-19.888043
 1634;MG;Formiga;-45.426793;-20.461819
 1635;MG;Formoso;-46.237075;-14.944633
@@ -2201,7 +2201,7 @@ id_municipio;uf;municipio;longitude;latitude
 2186;MG;Vermelho Novo;-42.268797;-20.040618
 2185;MG;Veríssimo;-48.311845;-19.66574
 2187;MG;Vespasiano;-43.9239;-19.688326
-2189;MG;Vieiras;-42.240051;-20867
+2189;MG;Vieiras;-42.240051;-20.867
 2190;MG;Virgem da Lapa;-42.343071;-16.807011
 2192;MG;Virginópolis;-42.701492;-18.815409
 2193;MG;Virgolândia;-42.306707;-18.473842
@@ -2364,7 +2364,7 @@ id_municipio;uf;municipio;longitude;latitude
 2338;MT;Nossa Senhora do Livramento;-56.343242;-15.772024
 2339;MT;Nova Bandeirantes;-57.864687;-9.808959
 2340;MT;Nova Brasilândia;-54.968527;-14.961215
-2341;MT;Nova Canaã do Norte;-55.953001;-10558
+2341;MT;Nova Canaã do Norte;-55.953001;-10.558
 2342;MT;Nova Guarita;-55.406062;-10.311992
 2343;MT;Nova Lacerda;-59.600115;-14.472726
 2344;MT;Nova Marilândia;-56.969572;-14.356757
@@ -2424,7 +2424,7 @@ id_municipio;uf;municipio;longitude;latitude
 2390;MT;Tabaporã;-56.831237;-11.300739
 2391;MT;Tangará da Serra;-57.493278;-14.62291
 2392;MT;Tapurah;-56.517821;-12.695014
-2393;MT;Terra Nova do Norte;-55231;-10517
+2393;MT;Terra Nova do Norte;-55.231;-10.517
 2394;MT;Tesouro;-53.559032;-16.080932
 2395;MT;Torixoréu;-52.557097;-16.200591
 2396;MT;União do Sul;-54.361637;-11.530776
@@ -2521,7 +2521,7 @@ id_municipio;uf;municipio;longitude;latitude
 2487;PA;Palestina do Pará;-48.318076;-5.740269
 2488;PA;Paragominas;-47.352692;-3.002116
 2489;PA;Parauapebas;-49.903733;-6.067812
-2490;PA;Pau d`Arco;-50044;-7.833916
+2490;PA;Pau d`Arco;-50.044;-7.833916
 2491;PA;Peixe-Boi;-47.324031;-1.193824
 2492;PA;Piçarra;-48.871633;-6.437783
 2493;PA;Placas;-54.212371;-3.868131
@@ -2663,7 +2663,7 @@ id_municipio;uf;municipio;longitude;latitude
 2628;PB;Ibiara;-38.405918;-7.479567
 2629;PB;Igaracy;-38.147761;-7.17184
 2630;PB;Imaculada;-37.507918;-7.388904
-2631;PB;Ingá;-35605;-7.281444
+2631;PB;Ingá;-35.605;-7.281444
 2632;PB;Itabaiana;-35.331723;-7.331674
 2633;PB;Itaporanga;-38.150442;-7.302021
 2634;PB;Itapororoca;-35.240635;-6.823738
@@ -2972,7 +2972,7 @@ id_municipio;uf;municipio;longitude;latitude
 2938;PE;Timbaúba;-35.311884;-7.504835
 2939;PE;Toritama;-36.063659;-8.009546
 2940;PE;Tracunhaém;-35.231421;-7.802284
-2941;PE;Trindade;-40.26472;-7759
+2941;PE;Trindade;-40.26472;-7.759
 2942;PE;Triunfo;-38.097776;-7.832719
 2943;PE;Tupanatinga;-37.344532;-8.747984
 2944;PE;Tuparetama;-37.31653;-7.6003
@@ -3034,7 +3034,7 @@ id_municipio;uf;municipio;longitude;latitude
 2998;PI;Canavieira;-43.72333;-7.688215
 2999;PI;Canto do Buriti;-42.951721;-8.111101
 3001;PI;Capitão Gervásio Oliveira;-41.813973;-8.496548
-3000;PI;Capitão de Campos;-41.943999;-4457
+3000;PI;Capitão de Campos;-41.943999;-4.457
 3002;PI;Caracol;-43.328998;-9.279333
 3003;PI;Caraúbas do Piauí;-41.842517;-3.475249
 3004;PI;Caridade do Piauí;-40.984763;-7.734349
@@ -3069,7 +3069,7 @@ id_municipio;uf;municipio;longitude;latitude
 3033;PI;Floriano;-43.024136;-6.771821
 3034;PI;Francinópolis;-42.259062;-6.393341
 3035;PI;Francisco Ayres;-42.688149;-6.626064
-3036;PI;Francisco Macedo;-40.787999;-7331
+3036;PI;Francisco Macedo;-40.787999;-7.331
 3037;PI;Francisco Santos;-41.128789;-6.994914
 3038;PI;Fronteiras;-40.614601;-7.081727
 3039;PI;Geminiano;-41.340879;-7.154759
@@ -3085,7 +3085,7 @@ id_municipio;uf;municipio;longitude;latitude
 3049;PI;Itaueira;-43.0249;-7.59989
 3050;PI;Jacobina do Piauí;-41.207506;-7.930634
 3051;PI;Jaicós;-41.137126;-7.362286
-3052;PI;Jardim do Mulato;-42.629999;-6099
+3052;PI;Jardim do Mulato;-42.629999;-6.099
 3053;PI;Jatobá do Piauí;-41.816965;-4.770254
 3054;PI;Jerumenha;-43.503319;-7.09128
 3056;PI;Joaquim Pires;-42.186462;-3.501636
@@ -3118,7 +3118,7 @@ id_municipio;uf;municipio;longitude;latitude
 3082;PI;Monte Alegre do Piauí;-45.303735;-9.753638
 3083;PI;Morro Cabeça no Tempo;-43.907246;-9.718905
 3084;PI;Morro do Chapéu do Piauí;-42.302442;-3.733374
-3085;PI;Murici dos Portelas;-42094;-3319
+3085;PI;Murici dos Portelas;-42.094;-3.319
 3086;PI;Nazaré do Piauí;-42.677316;-6.970235
 5676;PI;Nazária;-42.811532;-5.352268
 3087;PI;Nossa Senhora de Nazaré;-42.172954;-4.630188
@@ -3422,7 +3422,7 @@ id_municipio;uf;municipio;longitude;latitude
 3384;PR;Maripá;-53.828641;-24.419978
 3383;PR;Mariópolis;-52.549736;-26.351072
 3385;PR;Marmeleiro;-53.026741;-26.1472
-3386;PR;Marquinho;-52.249676;-25112
+3386;PR;Marquinho;-52.249676;-25.112
 3387;PR;Marumbi;-51.640374;-23.705764
 3388;PR;Matelândia;-53.993492;-25.249571
 3389;PR;Matinhos;-48.549012;-25.823655
@@ -3795,7 +3795,7 @@ id_municipio;uf;municipio;longitude;latitude
 3755;RN;Paraná;-38.305701;-6.475645
 3757;RN;Parazinho;-35.839787;-5.222758
 3758;RN;Parelhas;-36.656626;-6.684908
-3759;RN;Parnamirim;-35271;-5.911156
+3759;RN;Parnamirim;-35.271;-5.911156
 3760;RN;Passa e Fica;-35.644179;-6.430183
 3761;RN;Passagem;-35.370037;-6.272684
 3762;RN;Patu;-37.635638;-6.106559
@@ -4245,7 +4245,7 @@ id_municipio;uf;municipio;longitude;latitude
 4187;RS;Pelotas;-52.337058;-31.764898
 4188;RS;Picada Café;-51.136725;-29.446421
 4189;RS;Pinhal;-53.208185;-27.508022
-4190;RS;Pinhal Grande;-53.320649;-29345
+4190;RS;Pinhal Grande;-53.320649;-29.345
 5656;RS;Pinhal da Serra;-51.167329;-27.875132
 4191;RS;Pinheirinho do Vale;-53.608017;-27.210886
 4192;RS;Pinheiro Machado;-53.379789;-31.57944
@@ -4314,7 +4314,7 @@ id_municipio;uf;municipio;longitude;latitude
 4244;RS;Santo Ângelo;-54.266781;-28.300128
 4287;RS;Sapiranga;-51.006446;-29.634885
 4288;RS;Sapucaia do Sul;-51.144975;-29.827575
-4289;RS;Sarandi;-52.923085;-27942
+4289;RS;Sarandi;-52.923085;-27.942
 4290;RS;Seberi;-53.402634;-27.482861
 4291;RS;Sede Nova;-53.94929;-27.636739
 4292;RS;Segredo;-52.976673;-29.352337
@@ -4457,7 +4457,7 @@ id_municipio;uf;municipio;longitude;latitude
 4392;SC;Balneário Gaivota;-49.584092;-29.15272
 4556;SC;Balneário Piçarras;-48.67629;-26.769304
 4393;SC;Bandeirante;-53.641326;-26.770499
-4394;SC;Barra Bonita;-53.44;-26654
+4394;SC;Barra Bonita;-53.44;-26.654
 4395;SC;Barra Velha;-48.693338;-26.636961
 4396;SC;Bela Vista do Toldo;-50.466354;-26.274625
 4397;SC;Belmonte;-53.57581;-26.842994
@@ -5320,7 +5320,7 @@ id_municipio;uf;municipio;longitude;latitude
 5259;SP;Santa Maria da Serra;-48.159288;-22.566088
 5260;SP;Santa Mercedes;-51.756353;-21.349521
 5263;SP;Santa Rita d`Oeste;-50.835781;-20.141431
-5264;SP;Santa Rita do Passa Quatro;-47478;-21.708323
+5264;SP;Santa Rita do Passa Quatro;-47.478;-21.708323
 5265;SP;Santa Rosa de Viterbo;-47.362213;-21.477568
 5266;SP;Santa Salete;-50.688717;-20.242918
 5261;SP;Santana da Ponte Pensa;-50.801357;-20.252311
@@ -5331,7 +5331,7 @@ id_municipio;uf;municipio;longitude;latitude
 5270;SP;Santo Antônio de Posse;-46.91919;-22.602873
 5271;SP;Santo Antônio do Aracanguá;-50.497979;-20.933114
 5272;SP;Santo Antônio do Jardim;-46.684487;-22.112076
-5273;SP;Santo Antônio do Pinhal;-45663;-22827
+5273;SP;Santo Antônio do Pinhal;-45.663;-22.827
 5274;SP;Santo Expedito;-51.392894;-21.846657
 5276;SP;Santos;-46.335042;-23.953543
 5275;SP;Santópolis do Aguapeí;-50.504372;-21.637574
