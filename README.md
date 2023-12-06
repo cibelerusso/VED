@@ -8,10 +8,10 @@ Russo, C. M. (2023). cibelerusso/VED: Visualização e Exploração de Dados (Ve
 
 @misc{Russo_cibelerusso_VED_Visualizacao_e_2023,
 author = {Russo, Cibele M.},
-doi = {https://doi.org/10.5281/zenodo.10055942},
+doi = { https://doi.org/10.5281/zenodo.10055942 },
 month = oct,
 title = {{cibelerusso/VED: Visualização e Exploração de Dados}},
-url = {https://github.com/cibelerusso/VED},
+url = { https://github.com/cibelerusso/VED },
 year = {2023}
 }
 
